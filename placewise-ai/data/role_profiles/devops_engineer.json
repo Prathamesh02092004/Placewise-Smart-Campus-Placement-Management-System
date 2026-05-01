@@ -1,0 +1,18 @@
+{
+  "role_category": "devops_engineer",
+  "display_name": "DevOps Engineer",
+  "core_skills": [
+    {"skill": "Linux",      "weight": 0.92, "required_score": 75},
+    {"skill": "Docker",     "weight": 0.90, "required_score": 75},
+    {"skill": "CI/CD",      "weight": 0.88, "required_score": 70},
+    {"skill": "Kubernetes", "weight": 0.85, "required_score": 65},
+    {"skill": "Git",        "weight": 0.83, "required_score": 70},
+    {"skill": "AWS",        "weight": 0.80, "required_score": 60}
+  ],
+  "nice_to_have_skills": [
+    {"skill": "Terraform", "weight": 0.55},
+    {"skill": "Azure",     "weight": 0.45},
+    {"skill": "Python",    "weight": 0.40}
+  ],
+  "tech_tracks": {}
+}

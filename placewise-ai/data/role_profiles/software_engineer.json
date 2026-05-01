@@ -1,0 +1,22 @@
+{
+  "role_category": "software_engineer",
+  "display_name": "Software Engineer",
+  "core_skills": [
+    {"skill": "Data Structures & Algorithms", "weight": 0.95, "required_score": 75},
+    {"skill": "System Design",               "weight": 0.85, "required_score": 60},
+    {"skill": "Git",                          "weight": 0.80, "required_score": 70},
+    {"skill": "Object-Oriented Programming", "weight": 0.78, "required_score": 72},
+    {"skill": "REST API",                    "weight": 0.75, "required_score": 65},
+    {"skill": "SQL",                          "weight": 0.70, "required_score": 60}
+  ],
+  "nice_to_have_skills": [
+    {"skill": "Docker",     "weight": 0.45},
+    {"skill": "CI/CD",      "weight": 0.40},
+    {"skill": "Kubernetes", "weight": 0.35}
+  ],
+  "tech_tracks": {
+    "frontend":  ["React.js", "TypeScript", "JavaScript"],
+    "backend":   ["Node.js", "Python", "Java", "SQL"],
+    "fullstack": ["React.js", "Node.js", "SQL", "REST API"]
+  }
+}

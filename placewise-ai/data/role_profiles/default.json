@@ -1,0 +1,15 @@
+{
+  "role_category": "default",
+  "display_name": "General",
+  "core_skills": [
+    {"skill": "Git",                         "weight": 0.80, "required_score": 65},
+    {"skill": "SQL",                         "weight": 0.75, "required_score": 60},
+    {"skill": "Object-Oriented Programming", "weight": 0.72, "required_score": 65},
+    {"skill": "REST API",                    "weight": 0.68, "required_score": 55}
+  ],
+  "nice_to_have_skills": [
+    {"skill": "Docker", "weight": 0.35},
+    {"skill": "Linux",  "weight": 0.35}
+  ],
+  "tech_tracks": {}
+}

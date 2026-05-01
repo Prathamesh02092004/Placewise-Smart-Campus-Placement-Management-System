@@ -1,0 +1,20 @@
+{
+  "role_category": "data_scientist",
+  "display_name": "Data Scientist",
+  "core_skills": [
+    {"skill": "Python",          "weight": 0.95, "required_score": 75},
+    {"skill": "Machine Learning","weight": 0.92, "required_score": 70},
+    {"skill": "Pandas",          "weight": 0.88, "required_score": 70},
+    {"skill": "NumPy",           "weight": 0.85, "required_score": 65},
+    {"skill": "SQL",             "weight": 0.80, "required_score": 65},
+    {"skill": "scikit-learn",    "weight": 0.78, "required_score": 65}
+  ],
+  "nice_to_have_skills": [
+    {"skill": "TensorFlow",   "weight": 0.50},
+    {"skill": "PyTorch",      "weight": 0.50},
+    {"skill": "Deep Learning","weight": 0.45},
+    {"skill": "Tableau",      "weight": 0.35},
+    {"skill": "Power BI",     "weight": 0.35}
+  ],
+  "tech_tracks": {}
+}
